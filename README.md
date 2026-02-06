@@ -15,8 +15,6 @@ Each project is a small experiment or demo, created to practice frontend develop
 - **Project 6:** (e.g. "Form Validation with JavaScript")  
 - **Project 7:** (e.g. "Interactive Image Gallery")  
 
-👉 *(You can edit the descriptions above to match what each project actually does.)*  
-
 ---
 
 ## Tech Stack  
