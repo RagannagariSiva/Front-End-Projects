@@ -1,12 +1,11 @@
-# Projects
-# 🚀 Projects  
+# Projects  
 
 This repository contains a collection of **mini web development projects** built using **HTML, CSS, and JavaScript**.  
 Each project is a small experiment or demo, created to practice frontend development and improve UI/UX design skills.  
 
 ---
 
-## 📂 Projects Included  
+## Projects Included  
 
 - **Project 1:** (Add short description, e.g. "Simple Login Page UI")  
 - **Project 2:** (e.g. "Responsive Portfolio Layout")  
@@ -20,15 +19,8 @@ Each project is a small experiment or demo, created to practice frontend develop
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 - **Frontend:** HTML5, CSS3, JavaScript  
 - **Design:** Responsive layouts, custom styling  
 - **Assets:** Images (e.g., Porsche, BMW, etc.)  
 
----
-
-## 🚀 Getting Started  
-
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/Rockstar1611/Projects.git
